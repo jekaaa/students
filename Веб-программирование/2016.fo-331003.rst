@@ -29,7 +29,7 @@
      -
    * - 2
      - Гирко Евгений
-     -
+     - jeka_
      -
      -
      -
@@ -197,6 +197,7 @@
 
 .. GitHub
 
+.. _jeka: https://github.com/jekaaa
 .. _YuriySimakov: https://github.com/YuriySimakov
 .. _timxmur: https://github.com/timxmur
 .. _KhorAMus: https://github.com/KhorAMus
